@@ -1,0 +1,12 @@
+DU BLABLA POUR GIT TUTOTRIEL
+
+1:55 Télécharger et configurer GIT:                                                      git --version, git config --global user.name " John Doe ",  git config --global user.email " johndoe@email.com "
+3:35 Initialiser un nouveau projet et vérifier son état:                       git init, git status
+6:50 et 9:17 Enregistrer un nouveau fichier ou une modification:   git add fileName , git commit -m " commentaire "
+10:00 Timeline des commits:                                                                git log
+11:00 Créer, montrer la liste, basculer, fusionner une branche :      git branch branchName , git branch, git checkout branchName , git merge branchName , git branch -d branchName
+18:46 Créer un repository GitHub.
+20:00 Associer un dépôt local à un dépôt distant et vérification:   git remote add origin  https://example.git , git remote
+20:40 Déposer votre projet:                                                                   git push origin branchName
+21:45 Récupérer un projet:                                                                     git pull origin branchName
+22:15 donner accès au projet à des collaborateurs.
