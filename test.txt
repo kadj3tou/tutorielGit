@@ -14,3 +14,5 @@ DU BLABLA POUR GIT TUTOTRIEL
 REMARQUE PERSO: c'est cool mais j'ai galerer au début , il faut utliser la console git bash pour modifier les truk 
 apres tu fait des git init puis git status pour voir l'etat du gitapres ca tu fait un git add fileName
  le soucis c'est que j'avais mal tapé local
+
+ Pour info dans l'exio lors de la creation de la nouvelle branche je l'ai pas appeler alpha comme la dconsigne le suggerait mais jne l'ai appeler newBranch!
