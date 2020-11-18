@@ -10,3 +10,7 @@ DU BLABLA POUR GIT TUTOTRIEL
 20:40 Déposer votre projet:                                                                   git push origin branchName
 21:45 Récupérer un projet:                                                                     git pull origin branchName
 22:15 donner accès au projet à des collaborateurs.
+
+REMARQUE PERSO: c'est cool mais j'ai galerer au début , il faut utliser la console git bash pour modifier les truk 
+apres tu fait des git init puis git status pour voir l'etat du gitapres ca tu fait un git add fileName
+ le soucis c'est que j'avais mal tapé local
